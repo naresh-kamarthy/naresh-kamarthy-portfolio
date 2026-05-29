@@ -2,7 +2,7 @@
 
 Senior MERN engineer building scalable SaaS platforms, realtime systems, and AI-integrated web applications.
 
-[Live portfolio placeholder](https://naresh-kamarthy-portfolio.vercel.app) • [GitHub](https://github.com/naresh-kamarthy) • [LinkedIn](https://www.linkedin.com/in/naresh-kamarthy-aa1239130)
+[Live portfolio](https://naresh-kamarthy-portfolio.vercel.app)
 
 ---
 
@@ -88,7 +88,7 @@ Deployed on Vercel with automatic GitHub deployments. Production updates flow fr
 ## Contact
 
 - GitHub: [naresh-kamarthy](https://github.com/naresh-kamarthy)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [Naresh Kamarthy](https://www.linkedin.com/in/naresh-kamarthy-aa1239130)
 - Email: [kamarthinaresh79@gmail.com](mailto:kamarthinaresh79@gmail.com)
 
 ---
